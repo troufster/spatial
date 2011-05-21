@@ -1,4 +1,4 @@
-# node-spatial
+# spatial
   A spatial hash module for node.js
 
 ## Documentation
@@ -20,4 +20,4 @@ To run tests:
 ## Installation
 For now, clone the repository manually.
  
-  `$ git clone git@github.com:troufster/node-spatial.git` 
+  `$ git clone git@github.com:troufster/spatial.git` 

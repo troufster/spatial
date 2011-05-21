@@ -1,8 +1,9 @@
 {
-  "name" : "node-spatial",
+  "name" : "spatial",
   "version" : "0.1.1",
   "description" : "Spatial hash ( 2d grid) module",
   "author" : "Stefan Pataky <stefan.pataky@gmail.com>",
-  "repository" : "git://github.com/troufster/node-spatial"
+  "repository" : "git://github.com/troufster/spatial",
+  "main" : "./main"
 
 }

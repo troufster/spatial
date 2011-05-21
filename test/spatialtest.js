@@ -1,4 +1,4 @@
-var Grid = require('../lib/grid');
+var Grid = require('../main');
 var Vector = require('./fixtures/vector');
 var assert = require('assert');
 

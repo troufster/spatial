@@ -8,9 +8,9 @@
   Expresso (https://github.com/visionmedia/expresso) can be used to run
   the tests.
 
-  $ npm install expresso
-  `expresso
+  `$ npm install expresso`
+  `expresso`
 
 ##Installation
   For now, clone the repository manually.
-  $ git clone git@github.com:troufster/node-spatial.git
+  `$ git clone git@github.com:troufster/node-spatial.git` 

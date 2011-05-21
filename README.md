@@ -15,7 +15,7 @@ To install:
 
 To run tests:
 
-  `expresso`
+  `$ expresso`
 
 ## Installation
 For now, clone the repository manually.

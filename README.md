@@ -1,6 +1,9 @@
 # spatial
   A spatial hash module for node.js
 
+## Installation
+  `npm install spatial`
+ 
 ## Documentation
   Documentation is provided in form of code comments and tests
 
@@ -16,8 +19,3 @@ To install:
 To run tests:
 
   `$ expresso`
-
-## Installation
-For now, clone the repository manually.
- 
-  `$ git clone git@github.com:troufster/spatial.git` 

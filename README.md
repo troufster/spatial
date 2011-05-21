@@ -5,7 +5,7 @@
 
 Install using npm
 
-  $ npm install spatial
+  `$ npm install spatial`
 
 Or clone the git repo manually
  

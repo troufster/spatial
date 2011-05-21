@@ -2,10 +2,14 @@
   A 2d spatial hash module for node.js. 
 
 ## Installation
-  `npm install spatial`
+
+Install using npm
+
+  $ npm install spatial
+
+Or clone the git repo manually
  
 ## Documentation
-  Documentation is provided in form of code comments and tests
 
 ### Basic usage:
 
@@ -47,6 +51,7 @@ Gets an array of entity ID's within a certain radius from the supplied vector
      grid.getAreaIds(vector, radius, callback(err,data))
 
 
+Further documentation is provided in form of code comments and tests
 
 ## Running tests
 

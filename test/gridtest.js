@@ -338,7 +338,6 @@ module.exports = {
          cs = 1000,
          active = [];
     
-    //var pe =  EF.getEntity(992992132,new Vector(0,0),'Pirate scout');
     var pe = new Entity(new Vector(0,0), 'Entity', 123213123); 
     
     //Create a bunch of npcs in the 0,0 AOI
@@ -481,4 +480,5 @@ module.exports = {
      }
     }
   }
-}
+
+};
